@@ -27,7 +27,7 @@ int main()
     
     printf("%d is greatest among them",d[n-1]);
 
-    printf("\nAJAY YADAV,125113041");
+    printf("\nNanajinaik,125113032");
     
 	return 0;
 }
